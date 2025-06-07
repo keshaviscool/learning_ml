@@ -1,0 +1,17 @@
+# block
+fruits:
+  - apple
+  - mango
+  - banana
+---
+
+# key value pair
+"hello": "keshav"
+1: "wow"
+---
+
+# list
+- gujarat
+- jaipur
+- new delhi
+...

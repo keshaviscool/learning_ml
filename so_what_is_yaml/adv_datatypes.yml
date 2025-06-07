@@ -1,0 +1,37 @@
+title: let's start
+
+---
+
+students: !!seq
+  - keshav
+  - 1
+  - No
+
+---
+
+sparse seq:
+  - hey
+  - how
+  - what's
+  - 
+  -
+  - poppin
+
+---
+
+# nested
+-
+  -mango
+  -banana
+    -white banana
+    -brown banana
+
+  -apple
+    -red apple
+
+---
+
+
+
+
+
