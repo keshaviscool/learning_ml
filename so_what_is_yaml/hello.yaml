@@ -14,4 +14,30 @@ fruits:
 - gujarat
 - jaipur
 - new delhi
-...
+
+---
+
+message: >
+  this will
+  all be
+  in a 
+  single line
+
+---
+bio: |
+  this will be in 
+  different lines
+
+
+---
+
+BooleanValue: No
+Is_ItTrue: Yes
+
+---
+
+zero: !!int 0
+postivieNum: !!int 45
+
+commaValue: +540_000
+
